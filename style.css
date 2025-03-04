@@ -5,7 +5,7 @@ body {
     color: #fff;
    
         /* ... other styles ... */
-        background-image: url('images/verticle-line.jpg'); /* Replace with your image path */
+        background-image: url('images/ABOUT_Bays.png'); /* Replace with your image path */
         background-size: cover;  /* Or use 'contain' if you want to fit the whole image */
         background-repeat: no-repeat;
         background-attachment: fixed; /* Optional: Keep the background fixed while scrolling */
@@ -165,7 +165,7 @@ nav ul li a {
 .tagline {
     font-size: 1.1em;
     margin-bottom: 20px;
-    color: aqua;
+    color: white;
 }
 
 .title {
@@ -176,9 +176,9 @@ nav ul li a {
 }
 
 .subtitle {
-    font-size: 1.9em;
+    font-size: 2.9em;
     margin-bottom: 30px;
-    color: #FCCB06;
+    color: rgb(255, 0, 0);
     letter-spacing: 3px;
     font-family: Arial, Helvetica, sans-serif;
 }
